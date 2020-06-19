@@ -2,3 +2,8 @@ In this project, you’ll deploy web servers for a highly available web app usin
 
 
 screen shots included
+
+
+## Infrastructure diagram
+
+![](https://github.com/atefhares/udacity_cloud_devops_nanodegree/blob/master/Deploy%20a%20high-availability%20web%20app%20using%20CloudFormation/diagram/infra.png)
