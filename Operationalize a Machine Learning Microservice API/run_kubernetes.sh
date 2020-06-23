@@ -8,7 +8,7 @@ dockerpath=atefhares/udacity:latest
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl run pythonapp --image=udacity_python_app --port=80
+kubectl apply -f kubernetes_deployment.yaml
 
 # Step 3:
 # List kubernetes pods
