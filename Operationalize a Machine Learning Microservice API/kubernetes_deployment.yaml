@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: udacity_python_app
+  namespace: default
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      tag: udacity
+  template:
+    metadata:
+      labels:
+        tag: udacity
+    spec:
+      containers:
+      - name: atefhares/udacity:latest
+        image: udacity_python_app

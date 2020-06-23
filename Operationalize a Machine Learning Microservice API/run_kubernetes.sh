@@ -17,3 +17,4 @@ kubectl get pods
 # Step 4:
 # Forward the container port to a host
 kubectl expose deployment pythonapp --type=LoadBalancer --port=80 --target-port=80
+kubectl port-forward
