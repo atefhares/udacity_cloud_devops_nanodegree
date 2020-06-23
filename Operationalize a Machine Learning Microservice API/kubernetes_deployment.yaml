@@ -14,5 +14,5 @@ spec:
         tag: udacity
     spec:
       containers:
-      - name: atefhares/udacity:latest
-        image: udacity_python_app
+      - name: udacitypythonapp
+        image: atefhares/udacity:latest
