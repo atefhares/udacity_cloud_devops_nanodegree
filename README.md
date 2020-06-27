@@ -1,4 +1,4 @@
-# udacity_cloud_devops_nanodegree
+# Udacity Cloud Devops Nanodegree projects - Atef Hares
 This repo contains all projects for Udacity nanodegree [Cloud Devops Engineer](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 
 All of these projects are created by Me as part of the nandegree program.
